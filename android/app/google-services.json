@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "130557689562",
+    "firebase_url": "https://utakdev.firebaseio.com",
+    "project_id": "utakdev",
+    "storage_bucket": "utakdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130557689562:android:134aed205ddb57464a2fe3",
+        "android_client_info": {
+          "package_name": "com.pu.posfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130557689562-eb8frp69sjjarpq278dse4uphtqbiigi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeN_y2U_I2tHU7vR5ExC5_B1M_tKMHdXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130557689562-eb8frp69sjjarpq278dse4uphtqbiigi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130557689562-9s1vdeft8rl7c9h1o4e34phv7psvav4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pu.posfire"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130557689562:android:bb40b0af5dc490864a2fe3",
+        "android_client_info": {
+          "package_name": "com.utakmerchantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130557689562-eb8frp69sjjarpq278dse4uphtqbiigi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeN_y2U_I2tHU7vR5ExC5_B1M_tKMHdXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130557689562-eb8frp69sjjarpq278dse4uphtqbiigi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130557689562-9s1vdeft8rl7c9h1o4e34phv7psvav4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pu.posfire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
