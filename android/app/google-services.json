@@ -44,9 +44,9 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:130557689562:android:bb40b0af5dc490864a2fe3",
+        "mobilesdk_app_id": "1:130557689562:android:c83ab1a4b62b73a94a2fe3",
         "android_client_info": {
-          "package_name": "com.utakmerchantapp"
+          "package_name": "com.utakmerchant"
         }
       },
       "oauth_client": [
