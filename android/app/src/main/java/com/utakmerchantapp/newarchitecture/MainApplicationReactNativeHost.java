@@ -1,4 +1,4 @@
-package com.utakmerchantapp.newarchitecture;
+package com.utakmerchant.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.utakmerchantapp.BuildConfig;
-import com.utakmerchantapp.newarchitecture.components.MainComponentsRegistry;
-import com.utakmerchantapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.utakmerchant.BuildConfig;
+import com.utakmerchant.newarchitecture.components.MainComponentsRegistry;
+import com.utakmerchant.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

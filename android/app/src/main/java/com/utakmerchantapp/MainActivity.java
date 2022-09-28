@@ -1,4 +1,4 @@
-package com.utakmerchantapp;
+package com.utakmerchant;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

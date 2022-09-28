@@ -1,4 +1,4 @@
-package com.utakmerchantapp.newarchitecture.modules;
+package com.utakmerchant.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
